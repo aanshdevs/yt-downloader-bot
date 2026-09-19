@@ -1,0 +1,5 @@
+python-telegram-bot>=21,<23
+yt-dlp[default]
+boto3>=1.36
+requests>=2.31
+requests-toolbelt>=1.0
